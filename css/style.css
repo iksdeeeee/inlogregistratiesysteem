@@ -1,0 +1,19 @@
+/* body {
+  background-color: antiquewhite;
+  color: white;
+} */
+
+.content {
+  background-color: #E9ECEF;
+  min-height: 50vh;
+  padding: 2em;
+  margin-top: 2em;
+}
+
+.footer {
+  background-color: #F8F9FA;
+  min-height: 5vh;
+  padding: 2em;
+  margin-top: 2em;
+}
+
