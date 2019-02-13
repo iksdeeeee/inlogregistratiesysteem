@@ -14,7 +14,7 @@
   <title>Hello, world!</title>
 </head>
 
-<body>
+<body> 
   <main class="container">
     <div class="row">
       <div class="col-12">

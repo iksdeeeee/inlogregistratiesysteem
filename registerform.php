@@ -4,7 +4,7 @@
     <form action="./index.php?content=register" method="post">
       <div class="form-group">
         <label for="exampleInputEmail1">E-mailadres</label>
-        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="e-mailadres ">
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="e-mailadres" name="email">
         <small id="emailHelp" class="form-text text-muted">We gebruiken uw e-mailadres niet voor commerciele doeleinden.  </small>
       </div>
       <button type="submit" class="btn btn-danger btn-block">Go!</button>
